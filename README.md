@@ -1,29 +1,44 @@
 <div align="center">
 
-# 👋 Hi, I'm Paul — maker behind **Ksol Designs**
+<img src="banner.png" alt="Ksol Designs — Games, Apps & Custom Fabrication" width="100%">
 
-**Games, apps, and shop tools — built to actually ship.**
+### 🎮 Play right now — free, in your browser
 
-Potassium Solutions · Kiki's Custom Engraving · laser + CNC + 3D printing
+<table>
+<tr>
+<td align="center" width="150"><a href="https://potassiumsolutions.github.io/nokings"><img src="thumbs/nokings.png" width="88"><br><b>No Kings</b></a></td>
+<td align="center" width="150"><a href="https://potassiumsolutions.github.io/senet"><img src="thumbs/senet.png" width="88"><br><b>Senet</b></a></td>
+<td align="center" width="150"><a href="https://potassiumsolutions.github.io/stonecutter"><img src="thumbs/stonecutter.png" width="88"><br><b>Stonecutter</b></a></td>
+<td align="center" width="150"><a href="https://potassiumsolutions.github.io/abacus"><img src="thumbs/abacus.png" width="88"><br><b>Abacus</b></a></td>
+<td align="center" width="150"><a href="https://potassiumsolutions.github.io/dunkher"><img src="thumbs/dunkher.png" width="88"><br><b>DunkHer</b></a></td>
+<td align="center" width="150"><a href="https://potassiumsolutions.github.io/Sleepwave"><img src="thumbs/sleepwave.png" width="88"><br><b>SleepWave</b></a></td>
+</tr>
+</table>
 
-[![Website](https://img.shields.io/badge/🌐_ksoldesigns.com-2a0f12?style=for-the-badge)](https://www.ksoldesigns.com)
+[![Website](https://img.shields.io/badge/🌐_ksoldesigns.com-8a6a1a?style=for-the-badge)](https://www.ksoldesigns.com)
+[![Patreon](https://img.shields.io/badge/Patreon-KsolDesigns-f96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/KsolDesigns)
+&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-offline_ready-5a0fc8?style=flat-square)
+![three.js](https://img.shields.io/badge/three.js-3D-000000?style=flat-square&logo=three.js&logoColor=white)
+![Android](https://img.shields.io/badge/Android-Play_Store-3ddc84?style=flat-square&logo=android&logoColor=white)
 
 </div>
 
 ---
 
-### 🎮 Play in your browser
+👋 Hi, I'm **Paul** — a CAD artist and maker behind **Ksol Designs**. I build tabletop games, teaching tools, and shop software — and cut, engrave, and 3D-print custom parts through **Kiki's Custom Engraving**.
 
-Free, installable web games (PWAs) — no app store required.
+### 🕹️ What they are
 
-| Game | What it is |
-|------|------------|
+| Game | About |
+|------|-------|
 | 👑 **[No Kings](https://potassiumsolutions.github.io/nokings)** | A card game about toppling monarchy — also a [real printed game](https://www.thegamecrafter.com/games/no-kings-2-to-6) |
-| 𓂀 **[Senet](https://potassiumsolutions.github.io/senet)** | The oldest board game on Earth, reimagined with a 3D Egyptian artifact museum |
+| 𓂀 **[Senet](https://potassiumsolutions.github.io/senet)** | The oldest board game on Earth, reimagined, with a 3D Egyptian artifact museum |
 | 🪨 **[Stonecutter](https://potassiumsolutions.github.io/stonecutter)** | Multiply anything with the ancient doubling secret — build 3D monuments |
-| 🧮 **[Abacus — Silk Road Reckoner](https://potassiumsolutions.github.io/abacus)** | Learn the soroban by filling trade orders and raising historic cities |
+| 🧮 **[Abacus](https://potassiumsolutions.github.io/abacus)** | Learn the soroban by filling Silk Road trade orders and raising historic cities |
 | 🎯 **[DunkHer](https://potassiumsolutions.github.io/dunkher)** | A friendlier, dunk-tank take on the word-guessing game |
-| 😴 **[SleepWave](https://potassiumsolutions.github.io/Sleepwave)** | Soothing sound and sleep tool |
+| 😴 **[SleepWave](https://potassiumsolutions.github.io/Sleepwave)** | A binaural-beat sleep app with an intelligent wake system |
 
 ### 🛠️ Shop & maker tools
 
@@ -42,6 +57,6 @@ Free, installable web games (PWAs) — no app store required.
 
 *Tabletop games, teaching tools, and custom fabrication — made in the workshop and on the web.*
 
-**[www.ksoldesigns.com](https://www.ksoldesigns.com)**
+**[www.ksoldesigns.com](https://www.ksoldesigns.com)** &nbsp;·&nbsp; ✉️ Paul@ksoldesigns.com
 
 </div>
