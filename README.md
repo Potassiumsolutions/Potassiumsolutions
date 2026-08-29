@@ -16,7 +16,11 @@
 </table>
 
 [![Website](https://img.shields.io/badge/🌐_ksoldesigns.com-8a6a1a?style=for-the-badge)](https://www.ksoldesigns.com)
-[![Patreon](https://img.shields.io/badge/Patreon-KsolDesigns-f96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/KsolDesigns)
+[![Patreon](https://img.shields.io/badge/Patreon-f96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/ksoldesigns/posts)
+[![Cults3D](https://img.shields.io/badge/Cults3D-models-00b3b3?style=for-the-badge)](https://cults3d.com/en/users/PotassiumSolutions/3d-models)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-ramey-65171129)
+[![X](https://img.shields.io/badge/@paulramey1152-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/paulramey1152)
 &nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white)
 ![PWA](https://img.shields.io/badge/PWA-offline_ready-5a0fc8?style=flat-square)
