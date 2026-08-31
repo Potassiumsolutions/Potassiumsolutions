@@ -44,6 +44,10 @@
 | 🎯 **[DunkHer](https://potassiumsolutions.github.io/dunkher)** | A friendlier, dunk-tank take on the word-guessing game |
 | 😴 **[SleepWave](https://potassiumsolutions.github.io/Sleepwave)** | A binaural-beat sleep app with an intelligent wake system |
 
+### 🎬 Free creator tool
+
+- **[GLB Studio](https://potassiumsolutions.github.io/glb-studio/)** — rig, animate & stitch AI-generated 3D characters into finished animated videos, free in your browser (biped/quadruped/bird, 3D scenes, MP4 export) → [source](https://github.com/Potassiumsolutions/glb-studio)
+
 ### 🛠️ Shop & maker tools
 
 - **Cut Part Quote** — instant quoting for laser-cut metal & acrylic → embedded at [ksoldesigns.com](https://www.ksoldesigns.com)
