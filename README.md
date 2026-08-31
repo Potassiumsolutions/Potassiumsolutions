@@ -2,7 +2,7 @@
 
 <img src="banner.png" alt="Ksol Designs — Games, Apps & Custom Fabrication" width="100%">
 
-### 🎮 Play right now — free, in your browser
+### 🎮 Play &amp; create right now — free, in your browser
 
 <table>
 <tr>
@@ -12,6 +12,7 @@
 <td align="center" width="150"><a href="https://potassiumsolutions.github.io/abacus"><img src="thumbs/abacus.png" width="88"><br><b>Abacus</b></a></td>
 <td align="center" width="150"><a href="https://potassiumsolutions.github.io/dunkher"><img src="thumbs/dunkher.png" width="88"><br><b>DunkHer</b></a></td>
 <td align="center" width="150"><a href="https://potassiumsolutions.github.io/Sleepwave"><img src="thumbs/sleepwave.png" width="88"><br><b>SleepWave</b></a></td>
+<td align="center" width="150"><a href="https://potassiumsolutions.github.io/glb-studio/"><img src="thumbs/glbstudio.png" width="88"><br><b>GLB Studio</b></a></td>
 </tr>
 </table>
 
