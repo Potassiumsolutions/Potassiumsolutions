@@ -45,9 +45,9 @@
 | 🎯 **[DunkHer](https://potassiumsolutions.github.io/dunkher)** | A friendlier, dunk-tank take on the word-guessing game |
 | 😴 **[SleepWave](https://potassiumsolutions.github.io/Sleepwave)** | A binaural-beat sleep app with an intelligent wake system |
 
-### 🎬 Free toolkit for game creators
+### 🎬 Toolkit for game creators
 
-- **[GLB Studio](https://potassiumsolutions.github.io/glb-studio/)** — everything a game creator needs to make the characters, boards, cards, boxes, videos and the app, in one place, in your browser. Turn a picture into a 3D model, rig it (people + 17 animal & creature types), animate it, film promo and how-to videos, build print-ready boards, maps, cards and boxes for The Game Crafter or print shops, and export a playable game → [source](https://github.com/Potassiumsolutions/glb-studio) · [how it compares](https://potassiumsolutions.github.io/glb-studio/compare.html)
+- **[GLB Studio](https://potassiumsolutions.github.io/glb-studio/)** — everything a game creator needs to make the characters, boards, cards, boxes, videos and the app, in one place, in your browser. Turn a picture into a 3D model, rig it (24 skeleton types: people with or without fingers, four-legged animals, birds, dragons, sea life and more), animate it, film promo and how-to videos, build print-ready boards, maps, cards and boxes for The Game Crafter or print shops, and export a playable game → [shop](https://potassiumpro.gumroad.com) · [how it compares](https://potassiumsolutions.github.io/glb-studio/compare.html)
 
   *I built it after years of learning tool after tool to make Port & Plunder and Baby Dragon. If it saves you some of that time, it's done its job.*
 
